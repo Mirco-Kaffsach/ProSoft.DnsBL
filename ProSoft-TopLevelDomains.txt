@@ -61,7 +61,6 @@
 ||*.er^$important
 ||*.es^$important
 ||*.et^$important
-||*.eu^$important
 ||*.fi^$important
 ||*.fj^$important
 ||*.fk^$important
