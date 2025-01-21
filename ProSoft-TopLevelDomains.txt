@@ -33,7 +33,6 @@
 ||*.by^$important
 ||*.bz^$important
 ||*.ca^$important
-||*.cc^$important
 ||*.cd^$important
 ||*.cf^$important
 ||*.cg^$important
