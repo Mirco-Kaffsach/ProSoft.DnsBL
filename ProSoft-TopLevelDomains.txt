@@ -72,7 +72,6 @@
 ||*.gd^$important
 ||*.ge^$important
 ||*.gf^$important
-||*.gg^$important
 ||*.gh^$important
 ||*.gi^$important
 ||*.gl^$important
