@@ -33,6 +33,7 @@
 ||*.by^$important
 ||*.bz^$important
 ||*.ca^$important
+||*.cc^$important
 ||*.cd^$important
 ||*.cf^$important
 ||*.cg^$important
@@ -60,6 +61,7 @@
 ||*.er^$important
 ||*.es^$important
 ||*.et^$important
+||*.eu^$important
 ||*.fi^$important
 ||*.fj^$important
 ||*.fk^$important
@@ -71,6 +73,7 @@
 ||*.gd^$important
 ||*.ge^$important
 ||*.gf^$important
+||*.gg^$important
 ||*.gh^$important
 ||*.gi^$important
 ||*.gl^$important
